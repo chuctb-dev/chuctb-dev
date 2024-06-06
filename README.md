@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tran Ba Chuc</h1>
-<h3 align="center">Hello, I'm Tran Ba Chuc, a .NET developer from Vietnam. I take great care in the experience, architecture, and code quality of the things I build.</h3>
+<h1 align="left">Hi 👋, I'm Tran Ba Chuc</h1>
+<h3 align="left">Hello, I'm Tran Ba Chuc, a .NET developer from Vietnam. I take great care in the experience, architecture, and code quality of the things I build.</h3>
 
 - 🔭 I’m currently working on **e-commerce projects.**
 
